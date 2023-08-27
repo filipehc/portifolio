@@ -4,3 +4,4 @@
 '''
 Vamos iniciar?
 ''' 
+> enviando da máquina local para a central.
